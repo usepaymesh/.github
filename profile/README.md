@@ -4,7 +4,7 @@
 
 **Provider-agnostic payments infrastructure for TypeScript teams** — Gives your app a small, typed abstraction over payment providers so you can create checkout sessions, manage customers, verify webhooks, and react to normalized payment events without spreading provider SDK details across your codebase.
 
-<img src="assets/banner.png" width="100%" alt="Paymesh"/>
+<img src="https://raw.githubusercontent.com/usepaymesh/.github/main/assets/banner.png" width="100%" alt="Paymesh" />
 
 ## Discover the Paymesh ecosystem
 
