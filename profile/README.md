@@ -12,4 +12,4 @@ Paymesh is an ecosystem of tools for building provider-agnostic payment infrastr
 
 Explore the website to learn more about the platform, guides, packages, and everything you can build with Paymesh.
 
-[Visit the Paymesh website →](https://paymesh.dev)
+[Visit the Paymesh website →](https://paymesh-six.vercel.app/)
